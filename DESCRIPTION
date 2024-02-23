@@ -34,3 +34,4 @@ Suggests:
 VignetteBuilder: knitr
 Remotes: 
     ropenscilabs/icon
+Additional_repositories: https://cct-datascience.r-universe.dev/
