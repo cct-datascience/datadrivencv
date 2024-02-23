@@ -32,5 +32,4 @@ Suggests:
     rmarkdown,
     testthat (>= 2.1.0)
 VignetteBuilder: knitr
-Remotes: 
-    ropenscilabs/icon
+Additional_repositories: https://cct-datascience.r-universe.dev/
